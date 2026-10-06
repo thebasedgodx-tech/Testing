@@ -1,0 +1,1732 @@
+{
+  "users": [
+    {
+      "id": "user-default",
+      "email": "creator@klipforge.ai",
+      "name": "Creator Studio Pro",
+      "planTier": "Creator Pro",
+      "role": "user",
+      "totalMinutes": 120,
+      "usedMinutes": 53,
+      "createdAt": "2026-10-05T20:00:58.999Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1791235128387",
+      "userId": "user-default",
+      "title": "Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419",
+      "sourceUrl": "https://www.youtube.com/watch?v=jvqFAi7vkBc",
+      "fileUrl": "/sample-michelin.mp4",
+      "duration": 1540,
+      "thumbnailUrl": "https://i.ytimg.com/vi/jvqFAi7vkBc/hqdefault.jpg",
+      "uploadedAt": "Zojuist geïmporteerd",
+      "status": "completed",
+      "totalClipsFound": 3,
+      "clips": [
+        {
+          "id": "clip-vid-1791235128387-1",
+          "videoId": "vid-1791235128387",
+          "title": "Sam Altman on Elon Musk's Attack: The Truth",
+          "hookCategory": "Controversial",
+          "startTime": 120,
+          "endTime": 165,
+          "duration": 45,
+          "aspectRatio": "9:16",
+          "speakerFocusX": 0.5,
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+          "videoUrl": "/sample-michelin.mp4",
+          "status": "ready",
+          "virality": {
+            "overallScore": 96,
+            "hookScore": 98,
+            "flowScore": 94,
+            "curiosityScore": 95,
+            "emotionalPeak": 92,
+            "viralityRationale": "Direct drama between two tech titans (Altman vs Musk) triggers strong partisan comments, debate, and immediate retention.",
+            "recommendedHook": "Sam Altman breaks his silence on Elon Musk's lawsuit...",
+            "suggestedHashtags": [
+              "#samaltman",
+              "#elonmusk",
+              "#openai",
+              "#lexfridman",
+              "#technews",
+              "#ai"
+            ]
+          },
+          "subtitles": [
+            {
+              "id": "sub_1_1",
+              "start": 120,
+              "end": 123.5,
+              "text": "Elon thought OpenAI was going to fail.",
+              "words": [
+                {
+                  "id": "w1",
+                  "word": "Elon",
+                  "start": 120,
+                  "end": 120.4,
+                  "highlight": true
+                },
+                {
+                  "id": "w2",
+                  "word": "thought",
+                  "start": 120.4,
+                  "end": 120.8
+                },
+                {
+                  "id": "w3",
+                  "word": "OpenAI",
+                  "start": 120.8,
+                  "end": 121.5,
+                  "highlight": true
+                },
+                {
+                  "id": "w4",
+                  "word": "was",
+                  "start": 121.5,
+                  "end": 121.8
+                },
+                {
+                  "id": "w5",
+                  "word": "going",
+                  "start": 121.8,
+                  "end": 122.2
+                },
+                {
+                  "id": "w6",
+                  "word": "to",
+                  "start": 122.2,
+                  "end": 122.5
+                },
+                {
+                  "id": "w7",
+                  "word": "fail.",
+                  "start": 122.5,
+                  "end": 123.5,
+                  "emoji": "💀",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_1_2",
+              "start": 123.6,
+              "end": 128.2,
+              "text": "He wanted total control to merge it with Tesla.",
+              "words": [
+                {
+                  "id": "w8",
+                  "word": "He",
+                  "start": 123.6,
+                  "end": 123.9
+                },
+                {
+                  "id": "w9",
+                  "word": "wanted",
+                  "start": 123.9,
+                  "end": 124.3
+                },
+                {
+                  "id": "w10",
+                  "word": "total",
+                  "start": 124.3,
+                  "end": 124.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w11",
+                  "word": "control",
+                  "start": 124.8,
+                  "end": 125.5,
+                  "emoji": "🕹️"
+                },
+                {
+                  "id": "w12",
+                  "word": "to",
+                  "start": 125.5,
+                  "end": 125.8
+                },
+                {
+                  "id": "w13",
+                  "word": "merge",
+                  "start": 125.8,
+                  "end": 126.4
+                },
+                {
+                  "id": "w14",
+                  "word": "it",
+                  "start": 126.4,
+                  "end": 126.7
+                },
+                {
+                  "id": "w15",
+                  "word": "with",
+                  "start": 126.7,
+                  "end": 127.1
+                },
+                {
+                  "id": "w16",
+                  "word": "Tesla.",
+                  "start": 127.1,
+                  "end": 128.2,
+                  "emoji": "🚗",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_1_3",
+              "start": 128.5,
+              "end": 133.4,
+              "text": "When we said no, he walked away.",
+              "words": [
+                {
+                  "id": "w17",
+                  "word": "When",
+                  "start": 128.5,
+                  "end": 128.9
+                },
+                {
+                  "id": "w18",
+                  "word": "we",
+                  "start": 128.9,
+                  "end": 129.2
+                },
+                {
+                  "id": "w19",
+                  "word": "said",
+                  "start": 129.2,
+                  "end": 129.6
+                },
+                {
+                  "id": "w20",
+                  "word": "no,",
+                  "start": 129.6,
+                  "end": 130.4,
+                  "emoji": "❌",
+                  "highlight": true
+                },
+                {
+                  "id": "w21",
+                  "word": "he",
+                  "start": 130.6,
+                  "end": 131
+                },
+                {
+                  "id": "w22",
+                  "word": "walked",
+                  "start": 131,
+                  "end": 131.8
+                },
+                {
+                  "id": "w23",
+                  "word": "away.",
+                  "start": 131.8,
+                  "end": 133.4,
+                  "emoji": "🚶"
+                }
+              ]
+            },
+            {
+              "id": "sub_1_4",
+              "start": 133.6,
+              "end": 138.8,
+              "text": "Now that we succeeded, he is suing us.",
+              "words": [
+                {
+                  "id": "w24",
+                  "word": "Now",
+                  "start": 133.6,
+                  "end": 134
+                },
+                {
+                  "id": "w25",
+                  "word": "that",
+                  "start": 134,
+                  "end": 134.3
+                },
+                {
+                  "id": "w26",
+                  "word": "we",
+                  "start": 134.3,
+                  "end": 134.6
+                },
+                {
+                  "id": "w27",
+                  "word": "succeeded,",
+                  "start": 134.6,
+                  "end": 135.8,
+                  "emoji": "🚀",
+                  "highlight": true
+                },
+                {
+                  "id": "w28",
+                  "word": "he",
+                  "start": 136,
+                  "end": 136.4
+                },
+                {
+                  "id": "w29",
+                  "word": "is",
+                  "start": 136.4,
+                  "end": 136.8
+                },
+                {
+                  "id": "w30",
+                  "word": "suing",
+                  "start": 136.8,
+                  "end": 137.6,
+                  "emoji": "⚖️",
+                  "highlight": true
+                },
+                {
+                  "id": "w31",
+                  "word": "us.",
+                  "start": 137.6,
+                  "end": 138.8
+                }
+              ]
+            },
+            {
+              "id": "sub_1_5",
+              "start": 139.1,
+              "end": 144.5,
+              "text": "It hurts because Elon was my absolute hero.",
+              "words": [
+                {
+                  "id": "w32",
+                  "word": "It",
+                  "start": 139.1,
+                  "end": 139.5
+                },
+                {
+                  "id": "w33",
+                  "word": "hurts",
+                  "start": 139.5,
+                  "end": 140.2,
+                  "emoji": "💔",
+                  "highlight": true
+                },
+                {
+                  "id": "w34",
+                  "word": "because",
+                  "start": 140.3,
+                  "end": 140.9
+                },
+                {
+                  "id": "w35",
+                  "word": "Elon",
+                  "start": 140.9,
+                  "end": 141.6,
+                  "highlight": true
+                },
+                {
+                  "id": "w36",
+                  "word": "was",
+                  "start": 141.6,
+                  "end": 142
+                },
+                {
+                  "id": "w37",
+                  "word": "my",
+                  "start": 142,
+                  "end": 142.4
+                },
+                {
+                  "id": "w38",
+                  "word": "absolute",
+                  "start": 142.4,
+                  "end": 143.2
+                },
+                {
+                  "id": "w39",
+                  "word": "hero.",
+                  "start": 143.2,
+                  "end": 144.5,
+                  "emoji": "🦸"
+                }
+              ]
+            },
+            {
+              "id": "sub_1_6",
+              "start": 144.8,
+              "end": 150,
+              "text": "I really miss the guy who inspired builders.",
+              "words": [
+                {
+                  "id": "w40",
+                  "word": "I",
+                  "start": 144.8,
+                  "end": 145.2
+                },
+                {
+                  "id": "w41",
+                  "word": "really",
+                  "start": 145.2,
+                  "end": 145.8
+                },
+                {
+                  "id": "w42",
+                  "word": "miss",
+                  "start": 145.8,
+                  "end": 146.5,
+                  "emoji": "🥺"
+                },
+                {
+                  "id": "w43",
+                  "word": "the",
+                  "start": 146.5,
+                  "end": 146.9
+                },
+                {
+                  "id": "w44",
+                  "word": "guy",
+                  "start": 146.9,
+                  "end": 147.4
+                },
+                {
+                  "id": "w45",
+                  "word": "who",
+                  "start": 147.4,
+                  "end": 147.8
+                },
+                {
+                  "id": "w46",
+                  "word": "inspired",
+                  "start": 147.8,
+                  "end": 148.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w47",
+                  "word": "builders.",
+                  "start": 148.8,
+                  "end": 150,
+                  "emoji": "🔨"
+                }
+              ]
+            },
+            {
+              "id": "sub_1_7",
+              "start": 150.2,
+              "end": 155,
+              "text": "True leaders shouldn't try to stifle competition.",
+              "words": [
+                {
+                  "id": "w48",
+                  "word": "True",
+                  "start": 150.2,
+                  "end": 150.7,
+                  "highlight": true
+                },
+                {
+                  "id": "w49",
+                  "word": "leaders",
+                  "start": 150.7,
+                  "end": 151.4
+                },
+                {
+                  "id": "w50",
+                  "word": "shouldn't",
+                  "start": 151.4,
+                  "end": 152
+                },
+                {
+                  "id": "w51",
+                  "word": "try",
+                  "start": 152,
+                  "end": 152.5
+                },
+                {
+                  "id": "w52",
+                  "word": "to",
+                  "start": 152.5,
+                  "end": 152.8
+                },
+                {
+                  "id": "w53",
+                  "word": "stifle",
+                  "start": 152.8,
+                  "end": 153.6,
+                  "emoji": "🛑",
+                  "highlight": true
+                },
+                {
+                  "id": "w54",
+                  "word": "competition.",
+                  "start": 153.6,
+                  "end": 155
+                }
+              ]
+            },
+            {
+              "id": "sub_1_8",
+              "start": 155.2,
+              "end": 160,
+              "text": "Just build better products instead.",
+              "words": [
+                {
+                  "id": "w55",
+                  "word": "Just",
+                  "start": 155.2,
+                  "end": 155.7
+                },
+                {
+                  "id": "w56",
+                  "word": "build",
+                  "start": 155.7,
+                  "end": 156.4,
+                  "highlight": true
+                },
+                {
+                  "id": "w57",
+                  "word": "better",
+                  "start": 156.4,
+                  "end": 157.2,
+                  "highlight": true
+                },
+                {
+                  "id": "w58",
+                  "word": "products",
+                  "start": 157.2,
+                  "end": 158.4,
+                  "emoji": "💡"
+                },
+                {
+                  "id": "w59",
+                  "word": "instead.",
+                  "start": 158.4,
+                  "end": 160
+                }
+              ]
+            },
+            {
+              "id": "sub_1_9",
+              "start": 160.2,
+              "end": 165,
+              "text": "That is how humanity actually wins.",
+              "words": [
+                {
+                  "id": "w60",
+                  "word": "That",
+                  "start": 160.2,
+                  "end": 160.7
+                },
+                {
+                  "id": "w61",
+                  "word": "is",
+                  "start": 160.7,
+                  "end": 161.1
+                },
+                {
+                  "id": "w62",
+                  "word": "how",
+                  "start": 161.1,
+                  "end": 161.6
+                },
+                {
+                  "id": "w63",
+                  "word": "humanity",
+                  "start": 161.6,
+                  "end": 162.6,
+                  "emoji": "🌍"
+                },
+                {
+                  "id": "w64",
+                  "word": "actually",
+                  "start": 162.6,
+                  "end": 163.5
+                },
+                {
+                  "id": "w65",
+                  "word": "wins.",
+                  "start": 163.5,
+                  "end": 165,
+                  "emoji": "🏆",
+                  "highlight": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "clip-vid-1791235128387-2",
+          "videoId": "vid-1791235128387",
+          "title": "Fired In 4 Minutes: The OpenAI Board Coup",
+          "hookCategory": "Story",
+          "startTime": 540,
+          "endTime": 592,
+          "duration": 52,
+          "aspectRatio": "9:16",
+          "speakerFocusX": 0.5,
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+          "videoUrl": "/sample-michelin.mp4",
+          "status": "ready",
+          "virality": {
+            "overallScore": 98,
+            "hookScore": 99,
+            "flowScore": 95,
+            "curiosityScore": 98,
+            "emotionalPeak": 97,
+            "viralityRationale": "High-stakes corporate betrayal story with insane narrative tension. Everyone remembers the 4-day firing, but Sam revealing his internal panic makes it irresistible.",
+            "recommendedHook": "This is exactly how I got fired from OpenAI in 4 minutes flat.",
+            "suggestedHashtags": [
+              "#startups",
+              "#betrayal",
+              "#samaltman",
+              "#openai",
+              "#founder",
+              "#businessstory"
+            ]
+          },
+          "subtitles": [
+            {
+              "id": "sub_2_1",
+              "start": 540,
+              "end": 544.2,
+              "text": "I joined a Google Meet and was fired in four minutes.",
+              "words": [
+                {
+                  "id": "w66",
+                  "word": "I",
+                  "start": 540,
+                  "end": 540.3
+                },
+                {
+                  "id": "w67",
+                  "word": "joined",
+                  "start": 540.3,
+                  "end": 540.8
+                },
+                {
+                  "id": "w68",
+                  "word": "a",
+                  "start": 540.8,
+                  "end": 541
+                },
+                {
+                  "id": "w69",
+                  "word": "Google",
+                  "start": 541,
+                  "end": 541.4
+                },
+                {
+                  "id": "w70",
+                  "word": "Meet",
+                  "start": 541.4,
+                  "end": 542,
+                  "emoji": "💻"
+                },
+                {
+                  "id": "w71",
+                  "word": "and",
+                  "start": 542,
+                  "end": 542.3
+                },
+                {
+                  "id": "w72",
+                  "word": "was",
+                  "start": 542.3,
+                  "end": 542.6
+                },
+                {
+                  "id": "w73",
+                  "word": "fired",
+                  "start": 542.6,
+                  "end": 543.2,
+                  "emoji": "🔥",
+                  "highlight": true
+                },
+                {
+                  "id": "w74",
+                  "word": "in",
+                  "start": 543.2,
+                  "end": 543.5
+                },
+                {
+                  "id": "w75",
+                  "word": "four",
+                  "start": 543.5,
+                  "end": 543.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w76",
+                  "word": "minutes.",
+                  "start": 543.8,
+                  "end": 544.2,
+                  "emoji": "⏱️",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_2_2",
+              "start": 544.4,
+              "end": 548.8,
+              "text": "My phone instantly blew up with thousands of messages.",
+              "words": [
+                {
+                  "id": "w77",
+                  "word": "My",
+                  "start": 544.4,
+                  "end": 544.7
+                },
+                {
+                  "id": "w78",
+                  "word": "phone",
+                  "start": 544.7,
+                  "end": 545.2,
+                  "emoji": "📱"
+                },
+                {
+                  "id": "w79",
+                  "word": "instantly",
+                  "start": 545.2,
+                  "end": 545.9,
+                  "highlight": true
+                },
+                {
+                  "id": "w80",
+                  "word": "blew",
+                  "start": 545.9,
+                  "end": 546.4,
+                  "emoji": "💥",
+                  "highlight": true
+                },
+                {
+                  "id": "w81",
+                  "word": "up",
+                  "start": 546.4,
+                  "end": 546.7
+                },
+                {
+                  "id": "w82",
+                  "word": "with",
+                  "start": 546.7,
+                  "end": 547
+                },
+                {
+                  "id": "w83",
+                  "word": "thousands",
+                  "start": 547,
+                  "end": 547.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w84",
+                  "word": "of",
+                  "start": 547.8,
+                  "end": 548.1
+                },
+                {
+                  "id": "w85",
+                  "word": "messages.",
+                  "start": 548.1,
+                  "end": 548.8
+                }
+              ]
+            },
+            {
+              "id": "sub_2_3",
+              "start": 549,
+              "end": 553.8,
+              "text": "It was so loud it crashed my phone completely.",
+              "words": [
+                {
+                  "id": "w86",
+                  "word": "It",
+                  "start": 549,
+                  "end": 549.3
+                },
+                {
+                  "id": "w87",
+                  "word": "was",
+                  "start": 549.3,
+                  "end": 549.6
+                },
+                {
+                  "id": "w88",
+                  "word": "so",
+                  "start": 549.6,
+                  "end": 550
+                },
+                {
+                  "id": "w89",
+                  "word": "loud",
+                  "start": 550,
+                  "end": 550.6,
+                  "emoji": "🔊"
+                },
+                {
+                  "id": "w90",
+                  "word": "it",
+                  "start": 550.6,
+                  "end": 550.9
+                },
+                {
+                  "id": "w91",
+                  "word": "crashed",
+                  "start": 550.9,
+                  "end": 551.8,
+                  "emoji": "⚠️",
+                  "highlight": true
+                },
+                {
+                  "id": "w92",
+                  "word": "my",
+                  "start": 551.8,
+                  "end": 552.1
+                },
+                {
+                  "id": "w93",
+                  "word": "phone",
+                  "start": 552.1,
+                  "end": 552.7
+                },
+                {
+                  "id": "w94",
+                  "word": "completely.",
+                  "start": 552.7,
+                  "end": 553.8,
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_2_4",
+              "start": 554,
+              "end": 559.5,
+              "text": "For two days, I couldn't sleep or eat.",
+              "words": [
+                {
+                  "id": "w95",
+                  "word": "For",
+                  "start": 554,
+                  "end": 554.4
+                },
+                {
+                  "id": "w96",
+                  "word": "two",
+                  "start": 554.4,
+                  "end": 554.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w97",
+                  "word": "days,",
+                  "start": 554.8,
+                  "end": 555.5
+                },
+                {
+                  "id": "w98",
+                  "word": "I",
+                  "start": 555.7,
+                  "end": 556
+                },
+                {
+                  "id": "w99",
+                  "word": "couldn't",
+                  "start": 556,
+                  "end": 556.7,
+                  "highlight": true
+                },
+                {
+                  "id": "w100",
+                  "word": "sleep",
+                  "start": 556.7,
+                  "end": 557.6,
+                  "emoji": "🛌"
+                },
+                {
+                  "id": "w101",
+                  "word": "or",
+                  "start": 557.6,
+                  "end": 558
+                },
+                {
+                  "id": "w102",
+                  "word": "eat.",
+                  "start": 558,
+                  "end": 559.5,
+                  "emoji": "🍽️"
+                }
+              ]
+            },
+            {
+              "id": "sub_2_5",
+              "start": 559.8,
+              "end": 565.4,
+              "text": "Adrenaline had completely hijacked my entire central nervous system.",
+              "words": [
+                {
+                  "id": "w103",
+                  "word": "Adrenaline",
+                  "start": 559.8,
+                  "end": 561,
+                  "emoji": "⚡",
+                  "highlight": true
+                },
+                {
+                  "id": "w104",
+                  "word": "had",
+                  "start": 561,
+                  "end": 561.4
+                },
+                {
+                  "id": "w105",
+                  "word": "completely",
+                  "start": 561.4,
+                  "end": 562.3
+                },
+                {
+                  "id": "w106",
+                  "word": "hijacked",
+                  "start": 562.3,
+                  "end": 563.2,
+                  "highlight": true
+                },
+                {
+                  "id": "w107",
+                  "word": "my",
+                  "start": 563.2,
+                  "end": 563.6
+                },
+                {
+                  "id": "w108",
+                  "word": "entire",
+                  "start": 563.6,
+                  "end": 564.2
+                },
+                {
+                  "id": "w109",
+                  "word": "central",
+                  "start": 564.2,
+                  "end": 564.7
+                },
+                {
+                  "id": "w110",
+                  "word": "nervous",
+                  "start": 564.7,
+                  "end": 565.1
+                },
+                {
+                  "id": "w111",
+                  "word": "system.",
+                  "start": 565.1,
+                  "end": 565.4,
+                  "emoji": "🧠"
+                }
+              ]
+            },
+            {
+              "id": "sub_2_6",
+              "start": 565.6,
+              "end": 571.5,
+              "text": "Then seven hundred employees signed a letter threatening to quit.",
+              "words": [
+                {
+                  "id": "w112",
+                  "word": "Then",
+                  "start": 565.6,
+                  "end": 566
+                },
+                {
+                  "id": "w113",
+                  "word": "seven",
+                  "start": 566,
+                  "end": 566.6,
+                  "highlight": true
+                },
+                {
+                  "id": "w114",
+                  "word": "hundred",
+                  "start": 566.6,
+                  "end": 567.2,
+                  "highlight": true
+                },
+                {
+                  "id": "w115",
+                  "word": "employees",
+                  "start": 567.2,
+                  "end": 568.1,
+                  "emoji": "👥"
+                },
+                {
+                  "id": "w116",
+                  "word": "signed",
+                  "start": 568.1,
+                  "end": 568.7
+                },
+                {
+                  "id": "w117",
+                  "word": "a",
+                  "start": 568.7,
+                  "end": 568.9
+                },
+                {
+                  "id": "w118",
+                  "word": "letter",
+                  "start": 568.9,
+                  "end": 569.5,
+                  "emoji": "📝"
+                },
+                {
+                  "id": "w119",
+                  "word": "threatening",
+                  "start": 569.5,
+                  "end": 570.5
+                },
+                {
+                  "id": "w120",
+                  "word": "to",
+                  "start": 570.5,
+                  "end": 570.8
+                },
+                {
+                  "id": "w121",
+                  "word": "quit.",
+                  "start": 570.8,
+                  "end": 571.5,
+                  "emoji": "🚪",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_2_7",
+              "start": 571.8,
+              "end": 577,
+              "text": "That kind of loyalty gave me chills.",
+              "words": [
+                {
+                  "id": "w122",
+                  "word": "That",
+                  "start": 571.8,
+                  "end": 572.2
+                },
+                {
+                  "id": "w123",
+                  "word": "kind",
+                  "start": 572.2,
+                  "end": 572.6
+                },
+                {
+                  "id": "w124",
+                  "word": "of",
+                  "start": 572.6,
+                  "end": 572.9
+                },
+                {
+                  "id": "w125",
+                  "word": "loyalty",
+                  "start": 572.9,
+                  "end": 573.9,
+                  "emoji": "🤝",
+                  "highlight": true
+                },
+                {
+                  "id": "w126",
+                  "word": "gave",
+                  "start": 574,
+                  "end": 574.5
+                },
+                {
+                  "id": "w127",
+                  "word": "me",
+                  "start": 574.5,
+                  "end": 574.9
+                },
+                {
+                  "id": "w128",
+                  "word": "chills.",
+                  "start": 574.9,
+                  "end": 577,
+                  "emoji": "🥶",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_2_8",
+              "start": 577.2,
+              "end": 583,
+              "text": "Never underestimate the power of culture over boardroom politics.",
+              "words": [
+                {
+                  "id": "w129",
+                  "word": "Never",
+                  "start": 577.2,
+                  "end": 577.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w130",
+                  "word": "underestimate",
+                  "start": 577.8,
+                  "end": 578.8
+                },
+                {
+                  "id": "w131",
+                  "word": "the",
+                  "start": 578.8,
+                  "end": 579.1
+                },
+                {
+                  "id": "w132",
+                  "word": "power",
+                  "start": 579.1,
+                  "end": 579.7,
+                  "emoji": "💪"
+                },
+                {
+                  "id": "w133",
+                  "word": "of",
+                  "start": 579.7,
+                  "end": 580
+                },
+                {
+                  "id": "w134",
+                  "word": "culture",
+                  "start": 580,
+                  "end": 580.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w135",
+                  "word": "over",
+                  "start": 580.8,
+                  "end": 581.3
+                },
+                {
+                  "id": "w136",
+                  "word": "boardroom",
+                  "start": 581.3,
+                  "end": 582.1
+                },
+                {
+                  "id": "w137",
+                  "word": "politics.",
+                  "start": 582.1,
+                  "end": 583,
+                  "emoji": "🏛️"
+                }
+              ]
+            },
+            {
+              "id": "sub_2_9",
+              "start": 583.2,
+              "end": 592,
+              "text": "Because in the end, loyalty won.",
+              "words": [
+                {
+                  "id": "w138",
+                  "word": "Because",
+                  "start": 583.2,
+                  "end": 583.8
+                },
+                {
+                  "id": "w139",
+                  "word": "in",
+                  "start": 583.8,
+                  "end": 584.2
+                },
+                {
+                  "id": "w140",
+                  "word": "the",
+                  "start": 584.2,
+                  "end": 584.5
+                },
+                {
+                  "id": "w141",
+                  "word": "end,",
+                  "start": 584.5,
+                  "end": 585.5
+                },
+                {
+                  "id": "w142",
+                  "word": "loyalty",
+                  "start": 585.8,
+                  "end": 587,
+                  "highlight": true
+                },
+                {
+                  "id": "w143",
+                  "word": "won.",
+                  "start": 587,
+                  "end": 592,
+                  "emoji": "👑",
+                  "highlight": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "clip-vid-1791235128387-3",
+          "videoId": "vid-1791235128387",
+          "title": "GPT-4 Sucks: The Brutal Truth About GPT-5",
+          "hookCategory": "Value Bomb",
+          "startTime": 920,
+          "endTime": 962,
+          "duration": 42,
+          "aspectRatio": "9:16",
+          "speakerFocusX": 0.5,
+          "thumbnailUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+          "videoUrl": "/sample-michelin.mp4",
+          "status": "ready",
+          "virality": {
+            "overallScore": 95,
+            "hookScore": 97,
+            "flowScore": 96,
+            "curiosityScore": 96,
+            "emotionalPeak": 89,
+            "viralityRationale": "Hearing the creator of ChatGPT say 'GPT-4 kind of sucks' subverts all expectations and stops viewers scrolling instantly.",
+            "recommendedHook": "Sam Altman just admitted GPT-4 is actually terrible...",
+            "suggestedHashtags": [
+              "#chatgpt",
+              "#gpt5",
+              "#artificialintelligence",
+              "#futuretech",
+              "#aihype"
+            ]
+          },
+          "subtitles": [
+            {
+              "id": "sub_3_1",
+              "start": 920,
+              "end": 924.5,
+              "text": "I think GPT-4 kind of sucks.",
+              "words": [
+                {
+                  "id": "w144",
+                  "word": "I",
+                  "start": 920,
+                  "end": 920.4
+                },
+                {
+                  "id": "w145",
+                  "word": "think",
+                  "start": 920.4,
+                  "end": 920.8
+                },
+                {
+                  "id": "w146",
+                  "word": "GPT-4",
+                  "start": 920.8,
+                  "end": 921.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w147",
+                  "word": "kind",
+                  "start": 921.8,
+                  "end": 922.3
+                },
+                {
+                  "id": "w148",
+                  "word": "of",
+                  "start": 922.3,
+                  "end": 922.6
+                },
+                {
+                  "id": "w149",
+                  "word": "sucks.",
+                  "start": 922.6,
+                  "end": 924.5,
+                  "emoji": "🤮",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_3_2",
+              "start": 924.8,
+              "end": 929.5,
+              "text": "Relative to where we need to get, it's primitive.",
+              "words": [
+                {
+                  "id": "w150",
+                  "word": "Relative",
+                  "start": 924.8,
+                  "end": 925.5
+                },
+                {
+                  "id": "w151",
+                  "word": "to",
+                  "start": 925.5,
+                  "end": 925.8
+                },
+                {
+                  "id": "w152",
+                  "word": "where",
+                  "start": 925.8,
+                  "end": 926.3
+                },
+                {
+                  "id": "w153",
+                  "word": "we",
+                  "start": 926.3,
+                  "end": 926.6
+                },
+                {
+                  "id": "w154",
+                  "word": "need",
+                  "start": 926.6,
+                  "end": 927.1
+                },
+                {
+                  "id": "w155",
+                  "word": "to",
+                  "start": 927.1,
+                  "end": 927.4
+                },
+                {
+                  "id": "w156",
+                  "word": "get,",
+                  "start": 927.4,
+                  "end": 928
+                },
+                {
+                  "id": "w157",
+                  "word": "it's",
+                  "start": 928.2,
+                  "end": 928.6
+                },
+                {
+                  "id": "w158",
+                  "word": "primitive.",
+                  "start": 928.6,
+                  "end": 929.5,
+                  "emoji": "🪵",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_3_3",
+              "start": 929.8,
+              "end": 935,
+              "text": "People use it today and think it is magic.",
+              "words": [
+                {
+                  "id": "w159",
+                  "word": "People",
+                  "start": 929.8,
+                  "end": 930.4
+                },
+                {
+                  "id": "w160",
+                  "word": "use",
+                  "start": 930.4,
+                  "end": 930.9
+                },
+                {
+                  "id": "w161",
+                  "word": "it",
+                  "start": 930.9,
+                  "end": 931.2
+                },
+                {
+                  "id": "w162",
+                  "word": "today",
+                  "start": 931.2,
+                  "end": 932
+                },
+                {
+                  "id": "w163",
+                  "word": "and",
+                  "start": 932,
+                  "end": 932.4
+                },
+                {
+                  "id": "w164",
+                  "word": "think",
+                  "start": 932.4,
+                  "end": 933
+                },
+                {
+                  "id": "w165",
+                  "word": "it",
+                  "start": 933,
+                  "end": 933.4
+                },
+                {
+                  "id": "w166",
+                  "word": "is",
+                  "start": 933.4,
+                  "end": 933.8
+                },
+                {
+                  "id": "w167",
+                  "word": "magic.",
+                  "start": 933.8,
+                  "end": 935,
+                  "emoji": "🪄",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_3_4",
+              "start": 935.2,
+              "end": 941,
+              "text": "Wait until you see the leap from GPT-4 to GPT-5.",
+              "words": [
+                {
+                  "id": "w168",
+                  "word": "Wait",
+                  "start": 935.2,
+                  "end": 935.8,
+                  "highlight": true
+                },
+                {
+                  "id": "w169",
+                  "word": "until",
+                  "start": 935.8,
+                  "end": 936.4
+                },
+                {
+                  "id": "w170",
+                  "word": "you",
+                  "start": 936.4,
+                  "end": 936.8
+                },
+                {
+                  "id": "w171",
+                  "word": "see",
+                  "start": 936.8,
+                  "end": 937.3
+                },
+                {
+                  "id": "w172",
+                  "word": "the",
+                  "start": 937.3,
+                  "end": 937.6
+                },
+                {
+                  "id": "w173",
+                  "word": "leap",
+                  "start": 937.6,
+                  "end": 938.4,
+                  "emoji": "🚀",
+                  "highlight": true
+                },
+                {
+                  "id": "w174",
+                  "word": "from",
+                  "start": 938.4,
+                  "end": 939
+                },
+                {
+                  "id": "w175",
+                  "word": "GPT-4",
+                  "start": 939,
+                  "end": 939.8
+                },
+                {
+                  "id": "w176",
+                  "word": "to",
+                  "start": 939.8,
+                  "end": 940.2
+                },
+                {
+                  "id": "w177",
+                  "word": "GPT-5.",
+                  "start": 940.2,
+                  "end": 941,
+                  "emoji": "🤖",
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_3_5",
+              "start": 941.2,
+              "end": 946.8,
+              "text": "The delta will be just as gigantic as GPT-3 to GPT-4.",
+              "words": [
+                {
+                  "id": "w178",
+                  "word": "The",
+                  "start": 941.2,
+                  "end": 941.6
+                },
+                {
+                  "id": "w179",
+                  "word": "delta",
+                  "start": 941.6,
+                  "end": 942.3,
+                  "highlight": true
+                },
+                {
+                  "id": "w180",
+                  "word": "will",
+                  "start": 942.3,
+                  "end": 942.7
+                },
+                {
+                  "id": "w181",
+                  "word": "be",
+                  "start": 942.7,
+                  "end": 943
+                },
+                {
+                  "id": "w182",
+                  "word": "just",
+                  "start": 943,
+                  "end": 943.5
+                },
+                {
+                  "id": "w183",
+                  "word": "as",
+                  "start": 943.5,
+                  "end": 943.8
+                },
+                {
+                  "id": "w184",
+                  "word": "gigantic",
+                  "start": 943.8,
+                  "end": 944.8,
+                  "emoji": "🦖",
+                  "highlight": true
+                },
+                {
+                  "id": "w185",
+                  "word": "as",
+                  "start": 944.8,
+                  "end": 945.2
+                },
+                {
+                  "id": "w186",
+                  "word": "GPT-3",
+                  "start": 945.2,
+                  "end": 945.9
+                },
+                {
+                  "id": "w187",
+                  "word": "to",
+                  "start": 945.9,
+                  "end": 946.2
+                },
+                {
+                  "id": "w188",
+                  "word": "GPT-4.",
+                  "start": 946.2,
+                  "end": 946.8
+                }
+              ]
+            },
+            {
+              "id": "sub_3_6",
+              "start": 947,
+              "end": 952.8,
+              "text": "We are on an exponential curve that no human brain can grasp.",
+              "words": [
+                {
+                  "id": "w189",
+                  "word": "We",
+                  "start": 947,
+                  "end": 947.4
+                },
+                {
+                  "id": "w190",
+                  "word": "are",
+                  "start": 947.4,
+                  "end": 947.8
+                },
+                {
+                  "id": "w191",
+                  "word": "on",
+                  "start": 947.8,
+                  "end": 948.1
+                },
+                {
+                  "id": "w192",
+                  "word": "an",
+                  "start": 948.1,
+                  "end": 948.4
+                },
+                {
+                  "id": "w193",
+                  "word": "exponential",
+                  "start": 948.4,
+                  "end": 949.6,
+                  "emoji": "📈",
+                  "highlight": true
+                },
+                {
+                  "id": "w194",
+                  "word": "curve",
+                  "start": 949.6,
+                  "end": 950.4
+                },
+                {
+                  "id": "w195",
+                  "word": "that",
+                  "start": 950.4,
+                  "end": 950.8
+                },
+                {
+                  "id": "w196",
+                  "word": "no",
+                  "start": 950.8,
+                  "end": 951.2
+                },
+                {
+                  "id": "w197",
+                  "word": "human",
+                  "start": 951.2,
+                  "end": 951.8
+                },
+                {
+                  "id": "w198",
+                  "word": "brain",
+                  "start": 951.8,
+                  "end": 952.4,
+                  "emoji": "🧠"
+                },
+                {
+                  "id": "w199",
+                  "word": "can",
+                  "start": 952.4,
+                  "end": 952.6
+                },
+                {
+                  "id": "w200",
+                  "word": "grasp.",
+                  "start": 952.6,
+                  "end": 952.8,
+                  "highlight": true
+                }
+              ]
+            },
+            {
+              "id": "sub_3_7",
+              "start": 953,
+              "end": 962,
+              "text": "Prepare yourself, because everything is about to change.",
+              "words": [
+                {
+                  "id": "w201",
+                  "word": "Prepare",
+                  "start": 953,
+                  "end": 954,
+                  "emoji": "🚨",
+                  "highlight": true
+                },
+                {
+                  "id": "w202",
+                  "word": "yourself,",
+                  "start": 954,
+                  "end": 955.2
+                },
+                {
+                  "id": "w203",
+                  "word": "because",
+                  "start": 955.5,
+                  "end": 956.3
+                },
+                {
+                  "id": "w204",
+                  "word": "everything",
+                  "start": 956.3,
+                  "end": 957.5,
+                  "highlight": true
+                },
+                {
+                  "id": "w205",
+                  "word": "is",
+                  "start": 957.5,
+                  "end": 958
+                },
+                {
+                  "id": "w206",
+                  "word": "about",
+                  "start": 958,
+                  "end": 958.7
+                },
+                {
+                  "id": "w207",
+                  "word": "to",
+                  "start": 958.7,
+                  "end": 959.2
+                },
+                {
+                  "id": "w208",
+                  "word": "change.",
+                  "start": 959.2,
+                  "end": 962,
+                  "emoji": "🔮",
+                  "highlight": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "jobs": {
+    "job-1791235128387": {
+      "id": "job-1791235128387",
+      "videoId": "vid-1791235128387",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "Klaar! Clips gereed voor bewerking en download.",
+      "logs": [
+        {
+          "time": "21:18:48",
+          "text": "Link geïmporteerd: https://www.youtube.com/watch?v=jvqFAi7vkBc",
+          "type": "info"
+        },
+        {
+          "time": "21:18:48",
+          "text": "Credits afgeschreven: 15 min (Saldo: 67 min)",
+          "type": "success"
+        },
+        {
+          "time": "21:18:48",
+          "text": "[Pipeline Start] Ontvangen bestand: \"Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419\" (~26 min)",
+          "type": "info"
+        },
+        {
+          "time": "21:18:48",
+          "text": "$ ffmpeg -i \"photo-1516245834210-c4c142787335?auto=format&fit=crop&w=800&q=80\" -vn -acodec pcm_s16le -ar 16000 -ac 1 /tmp/audio.wav",
+          "type": "cmd"
+        },
+        {
+          "time": "21:18:49",
+          "text": "Initialiseer Gemini 3.8 Flash model voor semantische virality scoring...",
+          "type": "info"
+        },
+        {
+          "time": "21:19:17",
+          "text": "AI Analyse geslaagd: 3 virale momenten gedetecteerd.",
+          "type": "success"
+        },
+        {
+          "time": "21:19:17",
+          "text": "Detecteer gezichtscoördinaten en pas Exponential Moving Average (EMA) smoothing toe...",
+          "type": "info"
+        },
+        {
+          "time": "21:19:17",
+          "text": "Cameracentrum vastgesteld op x: 0.50 (9:16 vertical crop)",
+          "type": "info"
+        },
+        {
+          "time": "21:19:18",
+          "text": "$ ffmpeg -i video.mp4 -vf \"crop=ih*(9/16):ih,ass=subtitles_hormozi.ass\" -c:v h264_nvenc out.mp4",
+          "type": "cmd"
+        },
+        {
+          "time": "21:19:18",
+          "text": "✅ Pipeline succesvol afgerond! Video en clips opgeslagen in database.",
+          "type": "success"
+        }
+      ]
+    }
+  }
+}

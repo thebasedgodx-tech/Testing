@@ -1,0 +1,8 @@
+{
+  "name": "KlipForge AI - OpusClip Alternative",
+  "description": "AI-gestuurde video repurposing app voor automatische detectie van virale momenten, 9:16 auto-reframe, Hormozi-stijl ondertitels en multi-platform export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
